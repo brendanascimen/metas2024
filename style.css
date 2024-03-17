@@ -10,7 +10,7 @@
 body {
     font-family:Noto Sans ;
     font-size: 18px;
-    background-color: #196050;
+    background-color: #D1F5DE;
     color:  #948a8a;
     padding: 47px;
 }
@@ -29,7 +29,7 @@ main {
 
 /*parte dos blocos onde ficam as metas*/
 .meta {
-    background-color: #D1F5DE;
+    background-color: #18332F;
     margin-bottom: 17px;
     padding: 27px;
     border-radius: 5px;
